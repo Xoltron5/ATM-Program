@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/625ccca5-cd8f-4828-bd99-915850c12cd3)# ATM Program
+# ATM Program
 
 ## Table of Contents
 
