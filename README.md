@@ -5,14 +5,13 @@
 - [Overview](#overview)
 - [Features](#features)
 - [Demo](#demo)
-- [Configuration](#configuration)
-- [CurrentProgress](#currentprogress)
-- [Conclusion](#conclusion)
 - [Contact](#contact)
 
 ## Overview
 
 ATM Program is a program that allows you to choose 4 options, enter a pin, change your pin, show the amount of times the pin was entered correctly or incorrectly and exiting the ATM Program. It is a simple program that simulates some features of a ATM. 
+This is actually my first ever programming project I have made! I made this in year 1 semester 1 in my programming module and I have to say it was quite fun and challenging at the time. It's cool to see how much I have progressed since then I decided to keep the code, commenting and spacing
+exactly the same just for nostalga purposes. Absolutely loved this project!
 
 ## Features
 
@@ -33,23 +32,6 @@ Entering your pin:
 ![image](https://github.com/user-attachments/assets/abe10495-ad73-4d5a-bf0a-844dd0d5efa4)
 
 ![image](https://github.com/user-attachments/assets/7d859a89-0bcb-4abc-beec-2f875a06729b)
-
-
-
-## CurrentProgress
-
-So far I have made the game launcher, but have not made the games yet. The games shown are just dummy holders to showcase what it would look like likewise for the items. 
-
-There's also some extra things that I will add in the future such as the item name being shown on the store and inventory page so you can know the name of the item without clicking on it. 
-
-This launcher is a local launcher meaning you can't connect or play with friends but in the future when i learn networking programming I might implement that (would be a fun challenge)
-
-## Conclusion 
-This was a really fun project to make there where alot of challenges (looking at you javafx). This project expanded my java knowledge even improving my UI design skills. The UI was really satisfying to make in Figma but javafx was a different story. 
-
-After learning databases in college it was really satisfying to finally put that knowledge i learnt and actually make a proper database and have my app interact with it store user data and retrieve it! 
-
-Overall I am pretty proud of this project, but It is definitely nowhere near to being finished. I have alot planned and want to turn it into a proper app in the future. 
 
 ## Contact 
 
