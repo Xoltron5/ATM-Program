@@ -11,7 +11,7 @@
 
 ATM Program is a program that allows you to choose 4 options, enter a pin, change your pin, show the amount of times the pin was entered correctly or incorrectly and exiting the ATM Program. It is a simple program that simulates some features of a ATM. 
 
-This is actually my first ever programming project I have made! I made this in year 1 semester 1 in my programming module and I have to say it was quite fun and challenging at the time. It's cool to see how much I have progressed since then I decided to keep the code, commenting and spacing
+This is actually my first ever programming project I have made! I made this in year 1 semester 1 in my programming module and I have to say it was quite fun and challenging at the time. It's cool to see how much I have progressed since then. I decided to keep the code, commenting and spacing
 exactly the same just for nostalga purposes. Absolutely loved this project!
 
 ## Features
