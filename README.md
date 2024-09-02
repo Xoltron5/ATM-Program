@@ -33,6 +33,9 @@ Entering your pin:
 
 ![image](https://github.com/user-attachments/assets/7d859a89-0bcb-4abc-beec-2f875a06729b)
 
+![image](https://github.com/user-attachments/assets/16356387-8512-4d84-858d-670039f89105)
+
+
 ## Contact 
 
 Feel free to reach out with any questions or feedback:
